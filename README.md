@@ -1,6 +1,6 @@
 # musicstore_data-analysis
 
-# PDF
+# PDF -  Data Analysis File Using SQL
 
 
 [Music Store SQL Data Analysis.pdf](https://github.com/maanajipriyanshu/musicstore_data-analysis/files/11965289/Music.Store.SQL.Data.Analysis.pdf)
